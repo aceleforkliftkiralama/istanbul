@@ -1,5 +1,5 @@
 # istanbul
-Kağıthane Forklift Kiralama Hizmeti www.forkliftkiralamaistanbul.com 7/24 Kiralık Forklift
+İstanbul Forklift Kiralama Hizmeti www.forkliftkiralamaistanbul.com 7/24 Kiralık Forklift
 #  <a href="https://forkliftkiralamaistanbul.com/">forkliftkiralamaistanbul.com</a>
 #  <a href="https://forkliftkiralamaistanbul.com">Tıkla vE Sitemiz Üzerinden Hemen Ara</a>
 <meta charset="UTF-8">
