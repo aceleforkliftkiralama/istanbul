@@ -1,7 +1,7 @@
 # istanbul
 Kağıthane Forklift Kiralama Hizmeti www.forkliftkiralamaistanbul.com 7/24 Kiralık Forklift
 #  <a href="https://forkliftkiralamaistanbul.com/">forkliftkiralamaistanbul.com</a>
-#  <a href="tel:+90532 715 59 92">Hemen Ara</a>
+#  <a href="https://forkliftkiralamaistanbul.com">Tıkla Sitemiz Üzerinden Hemen Ara</a>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
